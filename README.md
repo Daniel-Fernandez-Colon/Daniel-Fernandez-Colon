@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 😄​👋, I'm Daniel</h1>
-<h3 align="center">A software engineering student👨‍💻</h3>
+<h3 align="center">A software engineer👨‍💻</h3>
 
 - 📫 How to reach me **danielfernandezolon@gmail.com**
 
